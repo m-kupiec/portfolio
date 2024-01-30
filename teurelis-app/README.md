@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="#what-is-teurelis">What is Teurelis?</a> | <a href="#features">Features</a> | <a href="#demo-access">Demo Access</a> | <a href="#tech-stack">Tech Stack</a>
+</div>
+<br />
+
 [![Teurelis](./assets/banner.png)](https://teurelis.com/)
 
 ## What is Teurelis?
