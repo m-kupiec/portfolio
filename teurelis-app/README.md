@@ -134,3 +134,13 @@ The latest versions of all major browsers are supported:
 ![](https://img.shields.io/badge/Firefox-Latest-informational?style=flat&logo=firefox&color=green)
 ![](https://img.shields.io/badge/Safari-Latest-informational?style=flat&logo=safari&color=green)
 
+## Demo Access
+
+For guest user login please go to [app.teurelis.com](https://app.teurelis.com/) and use the following credentials:
+
+```
+User/email: demo
+Password: teurelis
+```
+
+The app landing page is available at [teurelis.com](https://teurelis.com/).
