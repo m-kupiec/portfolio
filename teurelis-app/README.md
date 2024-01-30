@@ -58,3 +58,23 @@ Available bulk edit actions:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Different Layout Options
+
+#### Choose between visually grouping notes in a subject tree or viewing them all in a single grid:
+
+<br />
+<figure>
+  <img alt="Note grouping options" src="./assets/feat_grouping.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
+
+#### Choose between a single-column or multi-column note desk layout:
+
+<br />
+<figure>
+  <img alt="Column layout options" src="./assets/feat_columns.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
