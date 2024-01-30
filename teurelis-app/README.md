@@ -45,3 +45,16 @@ Both *bibliographic note* and *content note* can contain the following types of 
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Bulk Editing
+
+Available bulk edit actions:
+- Adding/removing subject paths in the selected notes
+- Connecting selected notes with a multidirectional link group
+
+<br />
+<figure>
+  <img alt="Bulk Editing" src="./assets/feat_bulk-edit.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
