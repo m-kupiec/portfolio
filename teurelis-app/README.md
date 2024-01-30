@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#what-is-teurelis">What is Teurelis?</a> | <a href="#features">Features</a> | <a href="#demo-access">Demo Access</a> | <a href="#tech-stack">Tech Stack</a>
+  <a href="#what-is-teurelis">What is Teurelis?</a> | <a href="#features">Features</a> | <a href="#demo-access">Demo Access</a> | <a href="#tech-stack">Tech Stack</a> | <a href="#author">Author</a>
 </div>
 <br />
 
@@ -194,3 +194,7 @@ The app landing page is available at [teurelis.com](https://teurelis.com/).
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) (JavaScript minification)
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n) (managing multiple languages in Svelte)
 - [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack) (managing environment variables)
+
+## Author
+
+&copy; 2021-2024 [Mateusz Kupiec](https://github.com/m-kupiec). All Rights Reserved.
