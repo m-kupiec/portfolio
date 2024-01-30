@@ -112,3 +112,14 @@ Option panels provide quick access to:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Responsive Design
+
+All functionality is fully available on both mobile and desktop.
+
+<br />
+<figure>
+  <img alt="Responsive Design" src="./assets/feat_rwd.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
