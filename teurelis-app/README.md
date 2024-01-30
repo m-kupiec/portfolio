@@ -13,3 +13,35 @@ Teurelis is a web app for managing interconnected reading notes. It is designed 
 ### Development Status
 
 The app has been developed since 2021. The current version is fully functional. All major features are implemented and more are in development.
+
+## Features
+
+### Bibliographic and Content Notes
+
+The *bibliographic note* body consists of a bibliographic entry formatted according to [Chicago Manual of Style 17 (Notes and Bibliography)](https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/toc.html).
+
+Availbable bibliographic note types:
+- Book
+- Book Volume
+- Book Part
+- Book Volume Part
+- Journal
+- Article
+- Online Resource
+- Online Resource Part
+- Miscellaneous Resource
+- Miscellaneous Resource Part
+
+The *content note* body consists of a title and body text with support for [Remarkable Markdown](https://github.com/jonschlinkert/remarkable) syntax.
+
+Both *bibliographic note* and *content note* can contain the following types of metadata:
+- related bibliographic resource
+- subject paths
+- multi-directional link groups to other notes
+
+<br />
+<figure>
+  <img alt="Bibliographic and Content Notes" src="./assets/feat_notes.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
