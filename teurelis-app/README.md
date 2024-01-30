@@ -123,3 +123,14 @@ All functionality is fully available on both mobile and desktop.
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Browser Support
+
+The latest versions of all major browsers are supported:
+
+![](https://img.shields.io/badge/Chrome-Latest-informational?style=flat&logo=googlechrome&color=green)
+![](https://img.shields.io/badge/Edge-Latest-informational?style=flat&logo=microsoftedge&color=green)
+![](https://img.shields.io/badge/Opera-Latest-informational?style=flat&logo=opera&color=green)
+![](https://img.shields.io/badge/Firefox-Latest-informational?style=flat&logo=firefox&color=green)
+![](https://img.shields.io/badge/Safari-Latest-informational?style=flat&logo=safari&color=green)
+
