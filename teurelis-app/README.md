@@ -144,3 +144,48 @@ Password: teurelis
 ```
 
 The app landing page is available at [teurelis.com](https://teurelis.com/).
+
+## Tech Stack
+
+### Primary Technologies
+
+- JavaScript
+- [Svelte](https://svelte.dev/)
+- [Userbase](https://userbase.com/) (user accounts, database)
+- CSS
+- HTML
+
+### Deployment
+
+- [Netlify](https://netlify.com/) (hosting, serverless functions)
+
+### Tools
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+- [npm](https://www.npmjs.com/)
+- [webpack](https://webpack.js.org/)
+
+### Regular dependencies
+
+- [lz-string](https://github.com/pieroxy/lz-string) (string compression)
+- [object-sizeof](https://github.com/miktam/sizeof) (estimating the size of JavaScript objects in memory)
+- [remarkable](https://github.com/jonschlinkert/remarkable) (Markdown parsing)
+- [dompurify](https://github.com/cure53/DOMPurify) (HTML sanitization)
+- [@fortawesome/fontawesome-free](https://github.com/FortAwesome/Font-Awesome) (icon library)
+
+### Development dependencies:
+
+- [webpack-cli](https://github.com/webpack/webpack-cli) (running webpack with CLI commands)
+- [webpack-dev-server](https://github.com/webpack/webpack-dev-server) (live build reload)
+- [webpack-merge](https://github.com/survivejs/webpack-merge) (separate configurations for development and production environments without duplicating code)
+- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) (automatic HTML generation)
+- [css-loader](https://github.com/webpack-contrib/css-loader) (importing CSS into JavaScript)
+- [svelte-loader](https://github.com/sveltejs/svelte-loader) (importing Svelte into JavaScript)
+- [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) (extracting CSS into separate files)
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) (pre-processing of Svelte components--using PostCSS in this case)
+- [autoprefixer](https://github.com/postcss/autoprefixer) (automatic CSS vendor prefixes)
+- [css-minimizer-webpack-plugin](https://github.com/webpack-contrib/css-minimizer-webpack-plugin) (CSS minification)
+- [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) (JavaScript minification)
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) (managing multiple languages in Svelte)
+- [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack) (managing environment variables)
