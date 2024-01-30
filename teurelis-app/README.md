@@ -6,7 +6,9 @@ Teurelis is a web app for managing interconnected reading notes. It is designed 
 
 <br />
 <div align="left">
-  <img alt="Teurelis" src="./assets/mockup.png" width="50%" align="center">
+  <a href="https://teurelis.com/">
+    <img alt="Teurelis" src="./assets/mockup.png" width="50%" align="center">
+  </a>
 </div>
 <br />
 
