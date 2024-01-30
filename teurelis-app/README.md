@@ -92,3 +92,23 @@ Option panels provide quick access to:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Browsing Options and Settings
+
+#### Navigating forward and backward through the browsing history:
+
+<br />
+<figure>
+  <img alt="Browsing history" src="./assets/feat_history.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
+
+#### Filtering notes based on detailed criteria, multiple sorting options, and desk/note display settings:
+
+<br />
+<figure>
+  <img alt="Options and Settings" src="./assets/feat_settings.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
