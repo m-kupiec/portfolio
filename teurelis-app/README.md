@@ -78,3 +78,17 @@ Available bulk edit actions:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+
+### Option Panels
+
+Option panels provide quick access to:
+- Exploring bibliographic references and subject path trees
+- Detailed search options
+- Account management (database export/import, password update, logout)
+
+<br />
+<figure>
+  <img alt="Option Panels" src="./assets/feat_panels.gif" width="75%">
+  <figcaption>Click on the image to enlarge.</figcaption>
+</figure>
+<br />
