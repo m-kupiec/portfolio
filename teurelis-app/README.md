@@ -66,7 +66,7 @@ Available bulk edit actions:
 
 ### Different Layout Options
 
-#### Choose between visually grouping notes in a subject tree or viewing them all in a single grid:
+Choose between visually grouping notes in a subject tree or viewing them all in a single grid:
 
 <br />
 <figure>
@@ -74,8 +74,9 @@ Available bulk edit actions:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+<br />
 
-#### Choose between a single-column or multi-column note desk layout:
+Choose between a single-column or multi-column note desk layout:
 
 <br />
 <figure>
@@ -100,7 +101,7 @@ Option panels provide quick access to:
 
 ### Browsing Options and Settings
 
-#### Navigating forward and backward through the browsing history:
+Navigating forward and backward through the browsing history:
 
 <br />
 <figure>
@@ -108,8 +109,9 @@ Option panels provide quick access to:
   <figcaption>Click on the image to enlarge.</figcaption>
 </figure>
 <br />
+<br />
 
-#### Filtering notes based on detailed criteria, multiple sorting options, and desk/note display settings:
+Filtering notes based on detailed criteria, multiple sorting options, and desk/note display settings:
 
 <br />
 <figure>
