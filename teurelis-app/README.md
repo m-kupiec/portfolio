@@ -190,7 +190,7 @@ The app landing page is available at [teurelis.com](https://teurelis.com/).
 - [css-loader](https://github.com/webpack-contrib/css-loader) (importing CSS into JavaScript)
 - [svelte-loader](https://github.com/sveltejs/svelte-loader) (importing Svelte into JavaScript)
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) (extracting CSS into separate files)
-- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) (pre-processing of Svelte components--using PostCSS in this case)
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) (pre-processing of Svelte components—using PostCSS in this case)
 - [autoprefixer](https://github.com/postcss/autoprefixer) (automatic CSS vendor prefixes)
 - [css-minimizer-webpack-plugin](https://github.com/webpack-contrib/css-minimizer-webpack-plugin) (CSS minification)
 - [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) (JavaScript minification)
