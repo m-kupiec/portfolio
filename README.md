@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-**03/2021 – Present** | JavaScript, Svelte, CSS, HTML | [Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md)
+**03/2021 – Present** | `JavaScript`, `Svelte`, `CSS`, `HTML` | [Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md)
 
 <br/>
 
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-**12/2023** | JavaScript, Svelte, CSS, HTML | [teurelis.com](https://teurelis.com/)
+**12/2023** | `JavaScript`, `Svelte`, `CSS`, `HTML` | [teurelis.com](https://teurelis.com/)
 
 <br/>
 
@@ -46,6 +46,6 @@
 <br/>
 <br/>
 
-**06/2023** | JavaScript, CSS, HTML | [fractile.io](https://fractile.io/)
+**06/2023** | `JavaScript`, `CSS`, `HTML` | [fractile.io](https://fractile.io/)
 
 <br />
