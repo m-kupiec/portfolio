@@ -2,7 +2,7 @@
 
 <br />
 
-### Teurelis web app
+### Teurelis web app (03/2021 – Present)
 
 > A web app for managing interconnected reading notes
 
@@ -14,11 +14,11 @@
 <br/>
 <br/>
 
-**03/2021 – Present** | `JavaScript`, `Svelte`, `CSS`, `HTML` | [Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md)
+`JavaScript`, `Svelte`, `CSS`, `HTML` | [Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md)
 
 <br/>
 
-### Teurelis website
+### Teurelis website (12/2023)
 
 > Landing page for the startup I&nbsp;founded
 
@@ -30,11 +30,11 @@
 <br/>
 <br/>
 
-**12/2023** | `JavaScript`, `Svelte`, `CSS`, `HTML` | [teurelis.com](https://teurelis.com/)
+`JavaScript`, `Svelte`, `CSS`, `HTML` | [teurelis.com](https://teurelis.com/)
 
 <br/>
 
-### Fractile website
+### Fractile website (06/2023)
 
 > Landing page for a *Google for Startups Residency* participant
 
@@ -46,6 +46,6 @@
 <br/>
 <br/>
 
-**06/2023** | `JavaScript`, `CSS`, `HTML` | [fractile.io](https://fractile.io/)
+`JavaScript`, `CSS`, `HTML` | [fractile.io](https://fractile.io/)
 
 <br />
