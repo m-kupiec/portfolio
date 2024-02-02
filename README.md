@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-`JavaScript`, `Svelte`, `CSS`, `HTML` | [Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md)
+[Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md) | `JavaScript`, `Svelte`, `CSS`, `HTML`
 
 <br/>
 
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-`JavaScript`, `Svelte`, `CSS`, `HTML` | [teurelis.com](https://teurelis.com/)
+[teurelis.com](https://teurelis.com/) | `JavaScript`, `Svelte`, `CSS`, `HTML`
 
 <br/>
 
@@ -46,6 +46,6 @@
 <br/>
 <br/>
 
-`JavaScript`, `CSS`, `HTML` | [fractile.io](https://fractile.io/)
+[fractile.io](https://fractile.io/) | `JavaScript`, `CSS`, `HTML`
 
 <br />
