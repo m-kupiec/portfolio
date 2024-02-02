@@ -1,8 +1,8 @@
-# Commercial Closed Source Projects
+## Commercial Closed Source Projects
 
 <br />
 
-## Teurelis web app
+### Teurelis web app
 
 > A web app for managing interconnected reading notes
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-## Teurelis website
+### Teurelis website
 
 > Landing page for the startup I&nbsp;founded
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-## Fractile website
+### Fractile website
 
 > Landing page for a *Google for Startups Residency* participant
 
