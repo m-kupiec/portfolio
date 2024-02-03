@@ -8,7 +8,7 @@
 
 <br />
 <a href="https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md">
-  <img alt="Teurelis" src="./teurelis-app/assets/mockup.png" width="50%">
+  <img alt="Teurelis" src="./teurelis-app/assets/mockup.png" width="33%">
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <br />
 <a href="https://teurelis.com/">
-  <img alt="Teurelis" src="./teurelis-website/assets/mockup.png" width="50%">
+  <img alt="Teurelis" src="./teurelis-website/assets/mockup.png" width="33%">
 </a>
 
 <br/>
@@ -40,7 +40,7 @@
 
 <br />
 <a href="https://fractile.io/">
-  <img alt="Fractile" src="./fractile-website/assets/mockup.png" width="50%">
+  <img alt="Fractile" src="./fractile-website/assets/mockup.png" width="33%">
 </a>
 
 <br/>
