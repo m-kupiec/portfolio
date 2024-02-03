@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-[Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md) | `JavaScript`, `Svelte`, `CSS`, `HTML`
+[Documentation](https://github.com/m-kupiec/portfolio/blob/main/teurelis-app/README.md) | `Svelte`, `JavaScript`, `CSS`, `HTML`
 
 <br/>
 
@@ -30,7 +30,7 @@
 <br/>
 <br/>
 
-[teurelis.com](https://teurelis.com/) | `JavaScript`, `Svelte`, `CSS`, `HTML`
+[teurelis.com](https://teurelis.com/) | `JavaScript`, `CSS`, `HTML`
 
 <br/>
 
