@@ -181,7 +181,7 @@ The app landing page is available at [teurelis.com](https://teurelis.com/).
 - [dompurify](https://github.com/cure53/DOMPurify) (HTML sanitization)
 - [@fortawesome/fontawesome-free](https://github.com/FortAwesome/Font-Awesome) (icon library)
 
-### Development dependencies:
+### Development dependencies
 
 - [webpack-cli](https://github.com/webpack/webpack-cli) (running webpack with CLI commands)
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) (live build reload)
