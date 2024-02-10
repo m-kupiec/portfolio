@@ -45,11 +45,9 @@ Both *bibliographic note* and *content note* can contain the following types of 
 - multi-directional link groups to other notes
 
 <br />
-<figure>
-  <img alt="Bibliographic and Content Notes" src="./assets/feat_notes.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Bibliographic and Content Notes" src="./assets/feat_notes.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Bulk Editing
 
@@ -58,32 +56,27 @@ Available bulk edit actions:
 - Connecting selected notes with a multidirectional link group
 
 <br />
-<figure>
-  <img alt="Bulk Editing" src="./assets/feat_bulk-edit.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Bulk Editing" src="./assets/feat_bulk-edit.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Different Layout Options
 
 Choose between visually grouping notes in a subject tree or viewing them all in a single grid:
 
 <br />
-<figure>
-  <img alt="Note grouping options" src="./assets/feat_grouping.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Note grouping options" src="./assets/feat_grouping.gif" width="75%">
+
+> Click on the image to enlarge.
+
 <br />
 
 Choose between a single-column or multi-column note desk layout:
 
 <br />
-<figure>
-  <img alt="Column layout options" src="./assets/feat_columns.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Column layout options" src="./assets/feat_columns.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Option Panels
 
@@ -93,43 +86,36 @@ Option panels provide quick access to:
 - Account management (database export/import, password update, logout)
 
 <br />
-<figure>
-  <img alt="Option Panels" src="./assets/feat_panels.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Option Panels" src="./assets/feat_panels.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Browsing Options and Settings
 
 Navigating forward and backward through the browsing history:
 
 <br />
-<figure>
-  <img alt="Browsing history" src="./assets/feat_history.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Browsing history" src="./assets/feat_history.gif" width="75%">
+
+> Click on the image to enlarge.
+
 <br />
 
 Filtering notes based on detailed criteria, multiple sorting options, and desk/note display settings:
 
 <br />
-<figure>
-  <img alt="Options and Settings" src="./assets/feat_settings.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Options and Settings" src="./assets/feat_settings.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Responsive Design
 
 All functionality is fully available on both mobile and desktop.
 
 <br />
-<figure>
-  <img alt="Responsive Design" src="./assets/feat_rwd.gif" width="75%">
-  <figcaption>Click on the image to enlarge.</figcaption>
-</figure>
-<br />
+<img alt="Responsive Design" src="./assets/feat_rwd.gif" width="75%">
+
+> Click on the image to enlarge.
 
 ### Browser Support
 
